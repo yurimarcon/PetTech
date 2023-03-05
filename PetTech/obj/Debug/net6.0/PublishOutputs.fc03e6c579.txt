@@ -1,0 +1,11 @@
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/PetTech
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/appsettings.json
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/PetTech.dll
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/PetTech.deps.json
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/PetTech.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/PetTech.pdb
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
