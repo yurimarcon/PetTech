@@ -1,4 +1,7 @@
 ﻿{
+  "ConnectionString": {
+    "Default": "User ID=postgres;Password=admin;Host=localhost;Port=55000;Database=postgres;"
+  },
   "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {
     "windowsAuthentication": false,
