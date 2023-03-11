@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetTech", "PetTech\PetTech.csproj", "{68A23CC2-A440-44A9-835B-6CC53AF7B4E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetTech_API", "PetTech_API\PetTech_API.csproj", "{B87A570D-60D9-4E0B-853C-295FAA7C5771}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{68A23CC2-A440-44A9-835B-6CC53AF7B4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68A23CC2-A440-44A9-835B-6CC53AF7B4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68A23CC2-A440-44A9-835B-6CC53AF7B4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87A570D-60D9-4E0B-853C-295FAA7C5771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87A570D-60D9-4E0B-853C-295FAA7C5771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87A570D-60D9-4E0B-853C-295FAA7C5771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87A570D-60D9-4E0B-853C-295FAA7C5771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

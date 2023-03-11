@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xDMWHwE15smHDu3xGUoRub2kpCcKgcedw3WQ+zbajhVRMFpZyh8lAVr8VMRFunSx67yHOzjv2cP7XwOucfgC7w==",
+  "dgSpecHash": "7E+rzqijCO0P3iy86USeVCstrdp1TLHyBhHOKLY3ufqibmRJ/Xtv72iPwTPtRQGAHrvuJEhbUW59Mkreud0XmA==",
   "success": true,
   "projectFilePath": "/Users/yurimarcon/Documents/projetos/API_dotnet/PetTech/PetTech.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,10 @@
     "/Users/yurimarcon/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/Users/yurimarcon/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/yurimarcon/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/yurimarcon/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/Users/yurimarcon/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
